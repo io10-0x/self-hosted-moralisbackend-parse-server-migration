@@ -1,4 +1,4 @@
-# parse-server migration
+# Self Hosted Moralis Backend (With Parse Server)
 
 For instructions on compatibility with hardhat-nft-marketplace : <a href="https://github.com/io10-0x/hardhat-nft-marketplace"><strong>See hardhat-nft-marketplace repository</strong></a>
 
